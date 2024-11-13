@@ -1,0 +1,20 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Sour+Gummy:ital,wght@0,100..900;1,100..900&display=swap');
+.my--hero{
+    max-width: 100em;
+    margin-inline: auto;
+    padding: 1rem;
+}
+
+
+
+.footer-section{
+    background-color: aqua;
+    text-align: center;
+    font-size:x-large;
+    font-family: "Sour Gummy", sans-serif;
+}
+
+#travel--means{
+    border-radius: 2rem;   
+}
